@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Front-end Photo -
 <img width="1871" height="1015" alt="image" src="https://github.com/user-attachments/assets/85fe96a9-c4f4-4e07-87d8-8f6be1643aae" />
+<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/62ce0694-8287-407e-9bea-3e125d1416bc" />
+
 
 ## Available Scripts
 
